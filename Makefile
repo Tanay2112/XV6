@@ -174,6 +174,8 @@ UPROGS=\
 	_clear\
 	_pwd\
 	_femto\
+	_cp\
+	_move\
 	# _sem\
 
 fs.img: mkfs README $(UPROGS)
