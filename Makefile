@@ -173,6 +173,7 @@ UPROGS=\
 	_zombie\
 	_clear\
 	_pwd\
+	_femto\
 	# _sem\
 
 fs.img: mkfs README $(UPROGS)
