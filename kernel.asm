@@ -9994,7 +9994,7 @@ argstr(int n, char **pp)
 801050be:	c3                   	ret    
 
 801050bf <syscall>:
-[SYS_getcwd]   sys_getcwd,
+// [SYS_join]    sys_join,
 };
 
 void
