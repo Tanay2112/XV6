@@ -1,3 +1,16 @@
+/******************************************************************************
+* FILE: femto.c
+* DESCRIPTION: This is a code for a very basic editor implemented 
+*                in XV6. The editor will only be able to write your 
+*                work in a file or say it will append what you have 
+*                in past and what you have done currently. 
+*            
+* AUTHOR: Tushar Gupta(tugu) and Gopal Krishan Aggarwal(Gopu)
+* LAST REVISED: 08/05/2016
+*
+* BUG: Need to improve whole editor
+*******************************************************************************/
+
 #include "types.h"
 #include "stat.h"
 #include "user.h"
