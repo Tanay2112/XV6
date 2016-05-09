@@ -33,7 +33,7 @@ main(int argc, char *argv[])
 {
 
   if(argc <= 2){
-    char* filename = "default.txt";
+    char* filename = "default.txt";                                              
     if(argv[1])
       filename = argv[1]; 
     cat(0,filename);
